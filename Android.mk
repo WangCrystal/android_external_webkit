@@ -318,6 +318,8 @@ else
     endif
   endif
   endif
+  endif
+  endif
 endif
 
 LOCAL_CFLAGS += -DENABLE_REQUEST_ANIMATION_FRAME=1
